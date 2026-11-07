@@ -59,6 +59,15 @@ HOW WE WORK
 - When I give edits, return the full revised post, not just the changed lines.
 - When I say "approved," mark that post approved in the calendar.
 - [Only if you connect a scheduling tool] When I say "schedule," show me the list of approved posts with dates and times, then schedule only those posts in [tool name]. Never publish immediately. Never schedule anything I have not approved. Confirm what was scheduled.
+
+MONTHLY REVIEW
+At the start of each month, I will give you my LinkedIn analytics file and say "monthly review." Then:
+- Match the posts in the file to our calendar, so you know each post's type, topic, and source.
+- Tell me which post types, topics, opening lines, days, and times got the most impressions, comments, and new followers, and which fell flat.
+- Tell me who is reading: job titles, industries, and seniority. Tell me whether I am reaching recruiters and hiring managers for my target roles.
+- Compare this month to earlier months if I have given you those files. Call something a pattern only when the numbers support it. One month is a small sample, so say so.
+- Recommend up to 3 changes for next month's plan, with the numbers behind each one. Keep what is working.
+- Do not change the plan until I approve the changes. Use the approved changes the next time I say "plan."
 ```
 
 ## Starter prompts
@@ -70,6 +79,7 @@ HOW WE WORK
 - "Here's a post I wrote. Tighten it up and keep my voice."
 - "Read this link from my inspiration list and draft a Point of view post that connects it to my experience."
 - "Turn my answer to 'tell me about a time you managed a difficult stakeholder' into a Story post."
+- "Here is my LinkedIn analytics file for [month]. Run my monthly review."
 - "Schedule the approved posts." (only after you connect a scheduling tool)
 
 ## Curate your feed
@@ -82,6 +92,44 @@ Garbage in, garbage out. If your feed is full of junk, it's because of what you 
 - **Keep politics to a small slice.** Most of what you follow, like, and comment on should serve your search. If you engage mostly with politics, that's what your feed will show you.
 
 Curating your feed is about what serves you. Networking is different. When you reach out to people, give as much as you take.
+
+## Measure what's working, once a month
+
+Posting without measuring is guessing. In the first week of each month, pull your LinkedIn analytics, give them to your AI, and let the numbers shape next month's plan.
+
+### Pull your analytics
+
+1. **Open your analytics.** On a computer, go to your LinkedIn profile, find the **Analytics** section, and click **Post impressions**.
+2. **Set the date range.** Choose **Past 28 days**. Custom date ranges are only in the LinkedIn mobile app.
+3. **Click Export** in the top right. LinkedIn downloads an Excel file with your impressions, engagement, top posts, new followers, and the job titles, industries, and seniority of the people who saw your posts.
+4. **Name the file with the month,** like "LinkedIn Analytics 2026-11," so you can compare months later.
+
+To check a single post, open the post, click **View analytics**, then click **Export**.
+
+### Give it to your AI
+
+Add the file to your project so the AI can compare months over time. In a Gem, add it under Knowledge. Then open a chat in your project and say: "Here is my LinkedIn analytics file for [month]. Run my monthly review."
+
+Using a scheduling tool? SocialBu's MCP connector can read your post and account metrics, so you can ask your AI to pull the numbers from SocialBu. Reach MCP can show who liked and commented on your posts from the last 30 days, which tells you whether recruiters and hiring managers are engaging. LinkedIn's own export is free and works for everyone.
+
+### What to look for
+
+- **Who's reading.** Job titles, industries, and seniority. You want recruiters and hiring managers for your target roles to see your posts, so this matters more than total impressions.
+- **Comments.** A comment is a conversation, and conversations start relationships. A comment is worth more than a reaction.
+- **New followers.** More of the right people choosing to see your posts.
+- **What's winning.** Which post types, topics, opening lines, days, and times do best.
+
+One month is a small sample. Look for patterns that hold for two or three months before you make big changes.
+
+### How it changes your plan
+
+The review ends with up to three changes for next month. You approve them, then say "plan." For example:
+
+- **Story posts start the most conversations.** Plan more Story posts.
+- **Your readers aren't in your target industry.** Write more about the problems that industry cares about.
+- **One posting day keeps beating the others.** Move a post to that day.
+
+Keep what's working. Change one to three things a month, so you can tell what made the difference.
 
 ## Ground rules
 

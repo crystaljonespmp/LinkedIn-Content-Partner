@@ -56,6 +56,12 @@ You draft X posts the same way you draft LinkedIn posts: from your career storie
 
 The scheduling tools from the main guide, Typefully, SocialBu, and AdaptlyPost, all post to X as well as LinkedIn.
 
+## Measure X too
+
+Add X to your monthly review. X's built-in analytics have changed several times in 2026, and free accounts see less than Premium accounts, so check what your account shows you. If your scheduling tool tracks X, pull the numbers from there. SocialBu tracks X as well as LinkedIn.
+
+Judge X on its own results. It doesn't mirror LinkedIn, so a post that does well on one may not do well on the other.
+
 ## Add X to your project
 
 Paste one of these add-ons at the end of your project instructions. Use the one that matches your X account. Fill in every [bracket].
@@ -72,6 +78,7 @@ I also post on X. X is its own channel and does not mirror LinkedIn.
 - When I say "adapt [post] for X," rewrite that LinkedIn post so it fits X. Do not copy it word for word.
 - Use 1 or 2 hashtags at most.
 - The same rules apply as on LinkedIn: keep employers anonymous, follow my choice about mentioning my job search, and nothing goes out without my approval.
+- When I give you my X numbers with my monthly review, review X separately from LinkedIn and recommend up to 3 changes to my X plan.
 - [Only if you connect a scheduling tool] When I say "schedule X," show me the approved X posts with dates and times, then schedule only those posts to X in [tool name].
 ```
 
@@ -88,6 +95,7 @@ I also post on X. X is its own channel and does not mirror LinkedIn.
 - When I say "adapt [post] for X," rewrite that LinkedIn post so it fits X. Do not copy it word for word.
 - Use 1 or 2 hashtags at most.
 - The same rules apply as on LinkedIn: keep employers anonymous, follow my choice about mentioning my job search, and nothing goes out without my approval.
+- When I give you my X numbers with my monthly review, review X separately from LinkedIn and recommend up to 3 changes to my X plan.
 - [Only if you connect a scheduling tool] When I say "schedule X," show me the approved X posts with dates and times, then schedule only those posts to X in [tool name].
 ```
 
