@@ -2,7 +2,7 @@
 
 Free guides for job seekers who want a steady LinkedIn presence without staring at a blank page.
 
-You already have the content for a LinkedIn strategy. It's in your resume, your career stories, and the articles and posts you read about your field. These guides show you how to set up ChatGPT, Claude, or Gemini to turn those materials into posts, with you as the editor. AI drafts. You decide.
+The point is to get seen by recruiters, hiring managers, and the peers who can connect you to hiring managers. You already have the content to do it. It's in your resume, your career stories, and the articles and posts you read about your field. These guides show you how to set up ChatGPT, Claude, or Gemini to turn those materials into posts, with you as the editor. AI drafts. You decide.
 
 ## The guides
 
@@ -10,6 +10,7 @@ You already have the content for a LinkedIn strategy. It's in your resume, your 
 |---|---|---|---|
 | **LinkedIn Content Partner Project Instructions** | Start here. Set up a project or Gem, paste in ready-made instructions, and start drafting posts from your own materials. | [Read it](Markdown/LinkedIn-Content-Partner-Project-Instructions.md) | [Download](https://github.com/crystaljonespmp/LinkedIn-Content-Partner/raw/main/Word/LinkedIn-Content-Partner-Project-Instructions.docx) |
 | **Keep Your Source Files in Google Drive** | Optional. Keep your resume, career stories, and post inspiration list in one Drive folder, and connect Drive to your AI so it always reads your latest version. | [Read it](Markdown/Keep-Your-Source-Files-in-Google-Drive.md) | [Download](https://github.com/crystaljonespmp/LinkedIn-Content-Partner/raw/main/Word/Keep-Your-Source-Files-in-Google-Drive.docx) |
+| **Bonus: Network and Find Jobs on X** | Optional. Curate your X feed, find jobs posted on X, network with professionals, and add X posts to your project. Includes add-ons for free and X Premium accounts. | [Read it](Markdown/Bonus-Network-and-Find-Jobs-on-X.md) | [Download](https://github.com/crystaljonespmp/LinkedIn-Content-Partner/raw/main/Word/Bonus-Network-and-Find-Jobs-on-X.docx) |
 
 ## The slides
 
@@ -31,6 +32,7 @@ The full presentation that walks through this workflow, with speaker notes on ev
 2. Ask for 12 post ideas drawn from your career stories.
 3. Draft one post, edit it until it sounds like you, and publish it.
 4. When you're ready, move your source files into Google Drive with the second guide.
+5. Want to network on X too? Read the bonus guide.
 
 These guides get updated as the tools change. Bookmark this page and come back for the latest version.
 
