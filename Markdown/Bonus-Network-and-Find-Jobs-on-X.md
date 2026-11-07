@@ -50,7 +50,7 @@ Curating your feed is about what serves you. Networking is different. When you r
 
 You draft X posts the same way you draft LinkedIn posts: from your career stories, your resume, and your post inspiration list, with you as the editor.
 
-**Free X accounts** limit each post to 280 characters. When an idea needs more room, write a short thread of 2 to 4 connected posts.
+**Free X accounts** limit each post to 280 characters. When an idea needs more room, write a short thread of 2 to 4 connected posts. If you schedule with Typefully's free plan, each post in a thread counts toward your 10 posts a month, so a 4-post thread uses 4.
 
 **X Premium accounts** can publish longer posts. Long posts still show only the first few lines in the feed, so the opening has to carry the point.
 
