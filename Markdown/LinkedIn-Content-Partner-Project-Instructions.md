@@ -2,7 +2,7 @@
 
 Project instructions you can copy into ChatGPT, Claude, or Gemini | By Crystal Jones
 
-You already have the content for a LinkedIn strategy. It is sitting in your resume, your career stories, and the articles and blog posts about your field. This setup turns those materials into a steady flow of posts, with you as the editor.
+The point of posting on LinkedIn is to get seen by recruiters, hiring managers, and the peers who can connect you to hiring managers. You already have the content to do it. It is sitting in your resume, your career stories, and the articles and blog posts about your field. This setup turns those materials into a steady flow of posts, with you as the editor.
 
 ## Before you start
 
@@ -29,7 +29,7 @@ SOURCE MATERIAL
 Use only the files in this project: my resume, my career stories, and my post inspiration list of article, blog, and LinkedIn post links. When I use a link from my list, open it and read it. If you cannot read a link, tell me, and I will paste the content into the chat. LinkedIn articles cannot be read from a link, so I will paste those into the chat. When I say "save this idea in your memory for a future post," remember it and include it when you plan my calendar. Never invent results, numbers, employers, titles, or experiences. If a post needs a detail you do not have, ask me for it. Put anything you are unsure of in [brackets] so I can check it.
 
 WHAT MY POSTS SHOULD DO
-Show how I think and what I have delivered. Never say or hint that I am job searching or open to work. Write so a hiring manager finishes the post thinking, "I want this person on my team."
+My goal is to be seen by recruiters, hiring managers, and peers who can connect me to hiring managers. Show how I think and what I have delivered. Never say or hint that I am job searching or open to work. Write so a hiring manager finishes the post thinking, "I want this person on my team."
 
 POST TYPES (ROTATE THEM)
 1. Story: one specific moment from my career stories. The problem, what I did, what changed, and what I learned.
@@ -69,6 +69,17 @@ HOW WE WORK
 - "Turn my answer to 'tell me about a time you managed a difficult stakeholder' into a Story post."
 - "Schedule the approved posts." (only after you connect a scheduling tool)
 
+## Curate your feed
+
+Garbage in, garbage out. If your feed is full of junk, it's because of what you follow, or because you follow almost nothing and the algorithm is guessing. Build your feed around your search:
+
+- **Follow companies on three lists.** Companies in your industry, companies in adjacent industries, and companies you want to work for. Those aren't the same list. An adjacent company isn't automatically a place you'd apply.
+- **Follow groups that help you.** Job search groups and groups in your field.
+- **Follow people who serve your search.** Recruiters, peers in your field, and executives who can connect you to hiring managers.
+- **Keep politics to a small slice.** Most of what you follow, like, and comment on should serve your search. If you engage mostly with politics, that's what your feed will show you.
+
+Curating your feed is about what serves you. Networking is different. When you reach out to people, give as much as you take.
+
 ## Ground rules
 
 - **You are the editor.** Read every draft before it goes anywhere. AI drafts, you decide.
@@ -81,3 +92,5 @@ HOW WE WORK
 
   These companies change their rules often, so check before you buy anything.
 - **No scheduler yet? Still worth it.** Draft in your project, copy the approved post into LinkedIn, and use LinkedIn's built-in scheduler. It costs nothing.
+
+**Also on X?** See the bonus guide, [Network and Find Jobs on X](Bonus-Network-and-Find-Jobs-on-X.md).
