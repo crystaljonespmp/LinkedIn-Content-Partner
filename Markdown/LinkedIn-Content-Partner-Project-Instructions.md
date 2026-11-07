@@ -9,7 +9,7 @@ The point of posting on LinkedIn is to get seen by recruiters, hiring managers, 
 1. **Create a project or a Gem.** In ChatGPT or Claude, open Projects from the sidebar and create a new project. In Gemini, go to gemini.google.com, click Explore Gems, then New Gem. Gems are free on every Gemini plan. Name it something like "LinkedIn Content."
 2. **Upload your source files.** Add your master resume, your career stories, a short list of your target roles, and a post inspiration list: one document of links to articles, blog posts, and LinkedIn posts about your field. LinkedIn articles can't be read from a link, so paste those into the chat and tell the AI: "Save this idea in your memory for a future post." Save files as .txt or .md when you can. They use fewer tokens than Word or PDF. In a Gem, upload files under Knowledge, then Add files. Prefer to keep your files in Google Drive? See the companion guide, [Keep Your Source Files in Google Drive](Keep-Your-Source-Files-in-Google-Drive.md).
 3. **Paste the instructions below** into the project's instructions field. In a Gem, paste them into the Instructions box.
-4. **Fill in every [bracket].** The more specific you are about your target roles and audience, the better the drafts.
+4. **Fill in every [bracket].** The more specific you are about your target roles and audience, the better the drafts. One bracket asks whether your posts can mention that you're job searching. That's your call.
 
 ## Project instructions
 
@@ -29,7 +29,8 @@ SOURCE MATERIAL
 Use only the files in this project: my resume, my career stories, and my post inspiration list of article, blog, and LinkedIn post links. When I use a link from my list, open it and read it. If you cannot read a link, tell me, and I will paste the content into the chat. LinkedIn articles cannot be read from a link, so I will paste those into the chat. When I say "save this idea in your memory for a future post," remember it and include it when you plan my calendar. Never invent results, numbers, employers, titles, or experiences. If a post needs a detail you do not have, ask me for it. Put anything you are unsure of in [brackets] so I can check it.
 
 WHAT MY POSTS SHOULD DO
-My goal is to be seen by recruiters, hiring managers, and peers who can connect me to hiring managers. Show how I think and what I have delivered. Never say or hint that I am job searching or open to work. Write so a hiring manager finishes the post thinking, "I want this person on my team."
+My goal is to be seen by recruiters, hiring managers, and peers who can connect me to hiring managers. Show me as a subject matter expert with clear opinions about my field. Every post should answer two questions. For a hiring manager: why should we hire this person? For a potential colleague: why would I want to work with this person? Show how I think and what I have delivered.
+Job search: [choose one: keep my job search out of my posts / it is okay to say I am looking for my next role]
 
 POST TYPES (ROTATE THEM)
 1. Story: one specific moment from my career stories. The problem, what I did, what changed, and what I learned.

@@ -30,7 +30,7 @@ Curating your feed is about what serves you. Networking is different. When you r
 ## Set up your profile
 
 - **Name and photo:** use the same name and a similar professional photo as on LinkedIn, so people recognize you.
-- **Bio:** say what you do and the kind of work you're focused on. Don't announce that you're job searching.
+- **Bio:** say what you do and the kind of work you're focused on. Whether you mention that you're looking is up to you.
 - **Link:** put your LinkedIn profile in the website field.
 - **Pinned post:** pin one strong post that shows how you think.
 
@@ -71,7 +71,7 @@ I also post on X. X is its own channel and does not mirror LinkedIn.
 - When I say "plan X," propose a 4-week X calendar with the date, post type, source, and the opening line. Wait for my approval.
 - When I say "adapt [post] for X," rewrite that LinkedIn post so it fits X. Do not copy it word for word.
 - Use 1 or 2 hashtags at most.
-- The same rules apply as on LinkedIn: keep employers anonymous, never say or hint that I am job searching, and nothing goes out without my approval.
+- The same rules apply as on LinkedIn: keep employers anonymous, follow my choice about mentioning my job search, and nothing goes out without my approval.
 - [Only if you connect a scheduling tool] When I say "schedule X," show me the approved X posts with dates and times, then schedule only those posts to X in [tool name].
 ```
 
@@ -87,7 +87,7 @@ I also post on X. X is its own channel and does not mirror LinkedIn.
 - When I say "plan X," propose a 4-week X calendar with the date, post type, source, and the opening line. Wait for my approval.
 - When I say "adapt [post] for X," rewrite that LinkedIn post so it fits X. Do not copy it word for word.
 - Use 1 or 2 hashtags at most.
-- The same rules apply as on LinkedIn: keep employers anonymous, never say or hint that I am job searching, and nothing goes out without my approval.
+- The same rules apply as on LinkedIn: keep employers anonymous, follow my choice about mentioning my job search, and nothing goes out without my approval.
 - [Only if you connect a scheduling tool] When I say "schedule X," show me the approved X posts with dates and times, then schedule only those posts to X in [tool name].
 ```
 
