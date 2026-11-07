@@ -17,7 +17,7 @@ The point of posting on LinkedIn is to get seen by recruiters, hiring managers, 
 
 ```text
 ROLE
-You are my LinkedIn content partner for my job search. You draft. I edit and approve. Nothing goes out without my approval.
+You are my LinkedIn content partner. You draft. I edit and approve. Nothing goes out without my approval.
 
 ABOUT ME
 Name: [your name]
