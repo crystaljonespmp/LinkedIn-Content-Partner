@@ -61,13 +61,16 @@ HOW WE WORK
 - [Only if you connect a scheduling tool] When I say "schedule," show me the list of approved posts with dates and times, then schedule only those posts in [tool name]. Never publish immediately. Never schedule anything I have not approved. Confirm what was scheduled.
 
 MONTHLY REVIEW
-At the start of each month, I will give you my LinkedIn analytics file and say "monthly review." Then:
+At the start of each month, I will give you my LinkedIn analytics file and a copy of my current project instructions, and say "monthly review." Then:
 - Match the posts in the file to our calendar, so you know each post's type, topic, and source.
 - Tell me which post types, topics, opening lines, days, and times got the most impressions, comments, and new followers, and which fell flat.
 - Tell me who is reading: job titles, industries, and seniority. Tell me whether I am reaching recruiters and hiring managers for my target roles.
 - Compare this month to earlier months if I have given you those files. Call something a pattern only when the numbers support it. One month is a small sample, so say so.
-- Recommend up to 3 changes for next month's plan, with the numbers behind each one. Keep what is working.
-- Do not change the plan until I approve the changes. Use the approved changes the next time I say "plan."
+- Recommend up to 3 changes, with the numbers behind each one. Keep what is working. Label each one:
+  - Plan change: it only affects next month's calendar, like more Story posts.
+  - Instruction change: it updates a standing rule in my instructions, like my cadence, post types, audience, or voice.
+- Do not change anything until I approve. Use approved plan changes the next time I say "plan."
+- For approved instruction changes, give me my full updated project instructions with the changes made, so I can replace my instructions in one paste. Then list exactly what you changed. You cannot edit my instructions yourself, so remind me to paste them in.
 ```
 
 ## Starter prompts
@@ -79,7 +82,7 @@ At the start of each month, I will give you my LinkedIn analytics file and say "
 - "Here's a post I wrote. Tighten it up and keep my voice."
 - "Read this link from my inspiration list and draft a Point of view post that connects it to my experience."
 - "Turn my answer to 'tell me about a time you managed a difficult stakeholder' into a Story post."
-- "Here is my LinkedIn analytics file for [month]. Run my monthly review."
+- "Here is my LinkedIn analytics file for [month] and my current instructions. Run my monthly review."
 - "Schedule the approved posts." (only after you connect a scheduling tool)
 
 ## Curate your feed
@@ -108,7 +111,7 @@ To check a single post, open the post, click **View analytics**, then click **Ex
 
 ### Give it to your AI
 
-Add the file to your project so the AI can compare months over time. In a Gem, add it under Knowledge. Then open a chat in your project and say: "Here is my LinkedIn analytics file for [month]. Run my monthly review."
+Add the file to your project so the AI can compare months over time. In a Gem, add it under Knowledge. Then open a chat in your project, attach the file, paste a copy of your current project instructions, and say: "Here is my LinkedIn analytics file for [month] and my current instructions. Run my monthly review."
 
 Using a scheduling tool? SocialBu's MCP connector can read your post and account metrics, so you can ask your AI to pull the numbers from SocialBu. Reach MCP can show who liked and commented on your posts from the last 30 days, which tells you whether recruiters and hiring managers are engaging. LinkedIn's own export is free and works for everyone.
 
@@ -130,6 +133,20 @@ The review ends with up to three changes for next month. You approve them, then 
 - **One posting day keeps beating the others.** Move a post to that day.
 
 Keep what's working. Change one to three things a month, so you can tell what made the difference.
+
+### When your instructions need to change
+
+Some findings change more than next month's calendar. If your Tuesday posts keep winning, your cadence should say Tuesday. If recruiters in a new industry keep reading, your audience line should name that industry. Those are instruction changes.
+
+Your AI can't edit its own project instructions. You make the change:
+
+1. **Paste your current instructions into the chat** with your analytics file, so the AI works from the exact text.
+2. **Approve the instruction changes** you want. The review labels each recommendation as a plan change or an instruction change.
+3. **Copy the full updated instructions** the AI gives you.
+4. **Replace your project's instructions.** Open your project's instructions, select everything, and paste the new version. In a Gem, edit the Gem and replace the text in the Instructions box. Save.
+5. **Keep the old version.** Save a dated copy, like "Instructions 2026-11," before you replace them, so you can go back if a change doesn't work.
+
+Using the Google Drive guide? Keep your instructions as a Google Doc in your source folder, too. It's your master copy and your history.
 
 ## Ground rules
 

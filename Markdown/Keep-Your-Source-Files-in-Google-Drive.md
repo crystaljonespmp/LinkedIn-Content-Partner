@@ -11,6 +11,7 @@ Your resume and career stories change. Keep them in one Google Drive folder and 
    - Your master resume
    - Your career stories
    - A short list of your target roles
+   - A copy of your project instructions. It's your master copy. When a monthly review changes your instructions, update this doc and save a dated copy of the old version.
    - A post inspiration list: one running Google Doc of links to articles, blog posts, and LinkedIn posts about your field. Add a link whenever you read something worth reacting to. Over time, this list becomes a library of post ideas.
 3. **Name files so you can find them fast.** For example: "Resume - Master," "Career Stories," "Target Roles," "Post Inspiration Links."
 
