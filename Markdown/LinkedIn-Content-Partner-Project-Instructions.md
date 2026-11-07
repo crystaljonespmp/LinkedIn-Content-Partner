@@ -113,7 +113,7 @@ To check a single post, open the post, click **View analytics**, then click **Ex
 
 Add the file to your project so the AI can compare months over time. In a Gem, add it under Knowledge. Then open a chat in your project, attach the file, paste a copy of your current project instructions, and say: "Here is my LinkedIn analytics file for [month] and my current instructions. Run my monthly review."
 
-Using a scheduling tool? SocialBu's MCP connector can read your post and account metrics, so you can ask your AI to pull the numbers from SocialBu. Reach MCP can show who liked and commented on your posts from the last 30 days, which tells you whether recruiters and hiring managers are engaging. LinkedIn's own export is free and works for everyone.
+Using a scheduling tool? SocialBu's MCP connector can read your post and account metrics, so you can ask your AI to pull the numbers from SocialBu. Schedule & Chill includes analytics on its free plan. Reach MCP can show who liked and commented on your posts from the last 30 days, which tells you whether recruiters and hiring managers are engaging. LinkedIn's own export is free and works for everyone.
 
 ### What to look for
 

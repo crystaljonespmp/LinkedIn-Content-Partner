@@ -54,7 +54,7 @@ You draft X posts the same way you draft LinkedIn posts: from your career storie
 
 **X Premium accounts** can publish longer posts. Long posts still show only the first few lines in the feed, so the opening has to carry the point.
 
-The scheduling tools from the main guide, Typefully, SocialBu, and AdaptlyPost, all post to X as well as LinkedIn.
+The scheduling tools from the slides, Typefully, SocialBu, and AdaptlyPost, all post to X as well as LinkedIn. Schedule & Chill is free for LinkedIn and posts to X with a $9 a month add-on.
 
 ## Measure X too
 
