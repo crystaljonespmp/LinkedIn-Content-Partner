@@ -1,6 +1,6 @@
 # LinkedIn Content Partner
 
-Project instructions you can copy into ChatGPT, Claude, or Gemini | By Crystal Jones
+Part 1: Setup | Project instructions you can copy into ChatGPT, Claude, or Gemini | By Crystal Jones
 
 The point of posting on LinkedIn is to get seen by recruiters, hiring managers, and the peers who can connect you to hiring managers. You already have the content to do it. It is sitting in your resume, your career stories, and the articles and blog posts about your field. This setup turns those materials into a steady flow of posts, with you as the editor.
 
@@ -58,7 +58,6 @@ HOW WE WORK
 - When I bring you a post I wrote, review it. Tighten it, clean up the grammar and flow, and flag anything that breaks these instructions. Keep my voice and my point. Return the full revised post and a short list of what you changed.
 - When I give edits, return the full revised post, not just the changed lines.
 - When I say "approved," mark that post approved in the calendar.
-- [Only if you connect a scheduling tool] When I say "schedule," show me the list of approved posts with dates and times, then schedule only those posts in [tool name]. Never publish immediately. Never schedule anything I have not approved. Confirm what was scheduled.
 
 MONTHLY REVIEW
 At the start of each month, I will give you my LinkedIn analytics file and a copy of my current project instructions, and say "monthly review." Then:
@@ -83,7 +82,6 @@ At the start of each month, I will give you my LinkedIn analytics file and a cop
 - "Read this link from my inspiration list and draft a Point of view post that connects it to my experience."
 - "Turn my answer to 'tell me about a time you managed a difficult stakeholder' into a Story post."
 - "Here is my LinkedIn analytics file for [month] and my current instructions. Run my monthly review."
-- "Schedule the approved posts." (only after you connect a scheduling tool)
 
 ## Curate your feed
 
@@ -112,8 +110,6 @@ To check a single post, open the post, click **View analytics**, then click **Ex
 ### Give it to your AI
 
 Add the file to your project so the AI can compare months over time. In a Gem, add it under Knowledge. Then open a chat in your project, attach the file, paste a copy of your current project instructions, and say: "Here is my LinkedIn analytics file for [month] and my current instructions. Run my monthly review."
-
-Using a scheduling tool? SocialBu's MCP connector can read your post and account metrics, so you can ask your AI to pull the numbers from SocialBu. Schedule & Chill includes analytics on its free plan. Reach MCP can show who liked and commented on your posts from the last 30 days, which tells you whether recruiters and hiring managers are engaging. LinkedIn's own export is free and works for everyone.
 
 ### What to look for
 
@@ -152,13 +148,8 @@ Using the Google Drive guide? Keep your instructions as a Google Doc in your sou
 
 - **You are the editor.** Read every draft before it goes anywhere. AI drafts, you decide.
 - **Free plans have limits.** Free ChatGPT and Claude accounts have the tightest usage caps. Gemini's free tier is more generous. Plan your drafting sessions around them.
-- **Connecting a scheduler takes the right plan.**
-  - **Claude:** Settings > Connectors. Paid plans. The Free plan allows only one custom connector, which isn't enough for this workflow.
-  - **ChatGPT:** Settings > Plugins. Paid plans.
-  - **Gemini:** Settings > Personal Intelligence > Connected Apps.
-  - **Microsoft Copilot:** the consumer app does not support MCP. The work version needs your admin to turn it on.
+- **Publish it yourself.** Copy the approved post, start a post on LinkedIn, paste it, and check the formatting. Click the clock icon next to the Post button to schedule it for your day and time. It costs nothing.
 
-  These companies change their rules often, so check before you buy anything.
-- **No scheduler yet? Still worth it.** Draft in your project, copy the approved post into LinkedIn, and use LinkedIn's built-in scheduler. It costs nothing.
+## Coming in Part 2
 
-**Also on X?** See the bonus guide, [Network and Find Jobs on X](Bonus-Network-and-Find-Jobs-on-X.md).
+Part 2 puts your content partner to work. Your AI publishes your approved posts for you, engages with people and posts in your field with your approval, and pulls your numbers for the monthly review without an export. It covers tools from free to one-time lifetime deals.

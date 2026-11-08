@@ -38,7 +38,7 @@ My source files are in my Google Drive folder named [folder name]: my resume, my
 
 - **Edit in Drive, not in the AI.** Your Drive folder is the master copy.
 - **Add new links to your inspiration list.** Then ask: "Check my post inspiration list for new links and give me 3 Point of view post ideas."
-- **If the AI can't open a link, paste the article.** Your AI can read most links, and Reach MCP can read LinkedIn posts. Some sites block AI tools. The AI will tell you when it can't read a link. Copy the article text and paste it into the chat.
+- **If the AI can't open a link, paste the article.** Your AI can read most links. Some sites block AI tools. The AI will tell you when it can't read a link. Copy the article text and paste it into the chat.
 - **LinkedIn articles have to be pasted.** A link to a LinkedIn article can't be read, so copy the article's content into the chat window. Then tell the AI: "Save this idea in your memory for a future post."
 - **If a draft quotes old details, say so.** For example: "Re-read my resume in Drive. I updated it."
 
