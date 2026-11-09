@@ -7,9 +7,10 @@ The point of posting on LinkedIn is to get seen by recruiters, hiring managers, 
 ## Before you start
 
 1. **Create a project or a Gem.** In ChatGPT or Claude, open Projects from the sidebar and create a new project. In Gemini, go to gemini.google.com, click Explore Gems, then New Gem. Gems are free on every Gemini plan. Name it something like "LinkedIn Content."
-2. **Upload your source files.** Add your master resume, your career stories, a short list of your target roles, and a post inspiration list: one document of links to articles, blog posts, and LinkedIn posts about your field. LinkedIn articles can't be read from a link, so paste those into the chat and tell the AI: "Save this idea in your memory for a future post." Save files as .txt or .md when you can. They use fewer tokens than Word or PDF. In a Gem, upload files under Knowledge, then Add files. Prefer to keep your files in Google Drive? See the companion guide, [Keep Your Source Files in Google Drive](Keep-Your-Source-Files-in-Google-Drive.md).
+2. **Upload your source files.** Add your master resume, your career stories, a short list of your target roles, and a post inspiration list: one document of links to articles, blog posts, and LinkedIn posts about your field. LinkedIn articles can't be read from a link, so paste those into the chat and tell the AI: "Save this idea in your memory for a future post." Then add a one-line note about the idea to your inspiration list, so it's there next month even if the AI's memory isn't. Save files as .txt or .md when you can. They use fewer tokens than Word or PDF. In a Gem, upload files under Knowledge, then Add files. Prefer to keep your files in Google Drive? See the companion guide, [Keep Your Source Files in Google Drive](Keep-Your-Source-Files-in-Google-Drive.md).
 3. **Paste the instructions below** into the project's instructions field. In a Gem, paste them into the Instructions box.
 4. **Fill in every [bracket].** The more specific you are about your target roles and audience, the better the drafts. One bracket asks whether your posts can mention that you're job searching. That's your call.
+5. **Start one chat per month.** Each month, open a new chat in your project. Start it with your monthly review, then plan the month and draft that month's posts in the same chat. Your instructions and files carry into every chat. The month's calendar and drafts live in that month's chat.
 
 ## Project instructions
 
@@ -26,7 +27,7 @@ Industries: [industries you work in or want to work in]
 Who I want to reach: recruiters and hiring managers for [target roles]
 
 SOURCE MATERIAL
-Use only the files in this project: my resume, my career stories, and my post inspiration list of article, blog, and LinkedIn post links. When I use a link from my list, open it and read it. If you cannot read a link, tell me, and I will paste the content into the chat. LinkedIn articles cannot be read from a link, so I will paste those into the chat. When I say "save this idea in your memory for a future post," remember it and include it when you plan my calendar. Never invent results, numbers, employers, titles, or experiences. If a post needs a detail you do not have, ask me for it. Put anything you are unsure of in [brackets] so I can check it.
+Use only the files in this project: my resume, my career stories, and my post inspiration list of article, blog, and LinkedIn post links. When I use a link from my list, open it and read it. If you cannot read a link, tell me, and I will paste the content into the chat. LinkedIn articles cannot be read from a link, so I will paste those into the chat. When I say "save this idea in your memory for a future post," remember it and include it when you plan my calendar. I will also add those ideas to my inspiration list. Never invent results, numbers, employers, titles, or experiences. If a post needs a detail you do not have, ask me for it. Put anything you are unsure of in [brackets] so I can check it.
 
 WHAT MY POSTS SHOULD DO
 My goal is to be seen by recruiters, hiring managers, and peers who can connect me to hiring managers. Show me as a subject matter expert with clear opinions about my field. Every post should answer two questions. For a hiring manager: why should we hire this person? For a potential colleague: why would I want to work with this person? Show how I think and what I have delivered.
@@ -60,16 +61,16 @@ HOW WE WORK
 - When I say "approved," mark that post approved in the calendar.
 
 MONTHLY REVIEW
-At the start of each month, I will give you my LinkedIn analytics file and a copy of my current project instructions, and say "monthly review." Then:
+At the start of each month, I will start a new chat, give you my LinkedIn analytics file, and say "monthly review." Then:
 - Match the posts in the file to our calendar, so you know each post's type, topic, and source.
 - Tell me which post types, topics, opening lines, days, and times got the most impressions, comments, and new followers, and which fell flat.
 - Tell me who is reading: job titles, industries, and seniority. Tell me whether I am reaching recruiters and hiring managers for my target roles.
 - Compare this month to earlier months if I have given you those files. Call something a pattern only when the numbers support it. One month is a small sample, so say so.
-- Recommend up to 3 changes, with the numbers behind each one. Keep what is working. Label each one:
+- Recommend changes, ranked from most to least impact, with the numbers behind each one. Keep what is working. Label each one:
   - Plan change: it only affects next month's calendar, like more Story posts.
   - Instruction change: it updates a standing rule in my instructions, like my cadence, post types, audience, or voice.
 - Do not change anything until I approve. Use approved plan changes the next time I say "plan."
-- For approved instruction changes, give me my full updated project instructions with the changes made, so I can replace my instructions in one paste. Then list exactly what you changed. You cannot edit my instructions yourself, so remind me to paste them in.
+- For approved instruction changes, work from my current project instructions word for word. If you cannot read them, tell me, and I will paste them into the chat. Then give me my full updated project instructions with the changes made, so I can replace my instructions in one paste, and list exactly what you changed. You cannot edit my instructions yourself, so remind me to paste them in.
 ```
 
 ## Starter prompts
@@ -81,7 +82,7 @@ At the start of each month, I will give you my LinkedIn analytics file and a cop
 - "Here's a post I wrote. Tighten it up and keep my voice."
 - "Read this link from my inspiration list and draft a Point of view post that connects it to my experience."
 - "Turn my answer to 'tell me about a time you managed a difficult stakeholder' into a Story post."
-- "Here is my LinkedIn analytics file for [month] and my current instructions. Run my monthly review."
+- "Here is my LinkedIn analytics file for [month]. Run my monthly review."
 
 ## Curate your feed
 
@@ -109,7 +110,7 @@ To check a single post, open the post, click **View analytics**, then click **Ex
 
 ### Give it to your AI
 
-Add the file to your project so the AI can compare months over time. In a Gem, add it under Knowledge. Then open a chat in your project, attach the file, paste a copy of your current project instructions, and say: "Here is my LinkedIn analytics file for [month] and my current instructions. Run my monthly review."
+Add the file to your project so the AI can compare months over time. In a Gem, add it under Knowledge. Then start the month's new chat in your project, attach the file, and say: "Here is my LinkedIn analytics file for [month]. Run my monthly review."
 
 ### What to look for
 
@@ -122,13 +123,13 @@ One month is a small sample. Look for patterns that hold for two or three months
 
 ### How it changes your plan
 
-The review ends with up to three changes for next month. You approve them, then say "plan." For example:
+The review ends with recommended changes, ranked from most to least impact. You approve the ones you want, then say "plan." For example:
 
 - **Story posts start the most conversations.** Plan more Story posts.
 - **Your readers aren't in your target industry.** Write more about the problems that industry cares about.
 - **One posting day keeps beating the others.** Move a post to that day.
 
-Keep what's working. Change one to three things a month, so you can tell what made the difference.
+Keep what's working. You don't have to take every recommendation. Changing a few things at a time makes next month's results easier to read, because you can tell which change made the difference.
 
 ### When your instructions need to change
 
@@ -136,13 +137,11 @@ Some findings change more than next month's calendar. If your Tuesday posts keep
 
 Your AI can't edit its own project instructions. You make the change:
 
-1. **Paste your current instructions into the chat** with your analytics file, so the AI works from the exact text.
-2. **Approve the instruction changes** you want. The review labels each recommendation as a plan change or an instruction change.
-3. **Copy the full updated instructions** the AI gives you.
+1. **Approve the instruction changes** you want. The review labels each recommendation as a plan change or an instruction change.
+2. **Make sure the AI has your exact instructions.** ChatGPT and Claude projects can read their own instructions word for word. Gemini Gems can't, so Gemini users open the Gem, click Edit, copy the text from the Instructions box, and paste it into the chat.
+3. **Copy the full updated instructions** the AI gives you, and check the list of what changed.
 4. **Replace your project's instructions.** Open your project's instructions, select everything, and paste the new version. In a Gem, edit the Gem and replace the text in the Instructions box. Save.
 5. **Keep the old version.** Save a dated copy, like "Instructions 2026-11," before you replace them, so you can go back if a change doesn't work.
-
-Using the Google Drive guide? Keep your instructions as a Google Doc in your source folder, too. It's your master copy and your history.
 
 ## Ground rules
 
