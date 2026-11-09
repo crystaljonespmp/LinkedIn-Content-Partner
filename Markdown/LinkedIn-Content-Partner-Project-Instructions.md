@@ -7,10 +7,21 @@ The point of posting on LinkedIn is to get seen by recruiters, hiring managers, 
 ## Before you start
 
 1. **Create a project or a Gem.** In ChatGPT or Claude, open Projects from the sidebar and create a new project. In Gemini, go to gemini.google.com, click Explore Gems, then New Gem. Gems are free on every Gemini plan. Name it something like "LinkedIn Content."
-2. **Upload your source files.** Add your master resume, your career stories, a short list of your target roles, and a post inspiration list: one document of links to articles, blog posts, and LinkedIn posts about your field. LinkedIn articles can't be read from a link, so paste those into the chat and tell the AI: "Save this idea in your memory for a future post." Then add a one-line note about the idea to your inspiration list, so it's there next month even if the AI's memory isn't. Save files as .txt or .md when you can. They use fewer tokens than Word or PDF. In a Gem, upload files under Knowledge, then Add files. Prefer to keep your files in Google Drive? See the companion guide, [Keep Your Source Files in Google Drive](Keep-Your-Source-Files-in-Google-Drive.md).
+2. **Upload your source files.** Add your master resume, your career stories, a short list of your target roles, and a post inspiration list: one document of articles, blog posts, and LinkedIn posts about your field. See "Your post inspiration list" below for what to save for each one. Save files as .txt or .md when you can. They use fewer tokens than Word or PDF. In a Gem, upload files under Knowledge, then Add files. Prefer to keep your files in Google Drive? See the companion guide, [Keep Your Source Files in Google Drive](Keep-Your-Source-Files-in-Google-Drive.md).
 3. **Paste the instructions below** into the project's instructions field. In a Gem, paste them into the Instructions box.
 4. **Fill in every [bracket].** The more specific you are about your target roles and audience, the better the drafts. One bracket asks whether your posts can mention that you're job searching. That's your call.
 5. **Start one chat per month.** Each month, open a new chat in your project. Start it with your monthly review, then plan the month and draft that month's posts in the same chat. Your instructions and files carry into every chat. The month's calendar and drafts live in that month's chat.
+
+## Your post inspiration list
+
+Your inspiration list is one running document of things you've read that are worth reacting to. Add to it whenever you find something. Over time, it becomes a library of post ideas. What you save depends on where it came from:
+
+- **Articles and blog posts on the open web:** save the link. Your AI can open and read it.
+- **Articles behind a paywall:** save the full text and the link. Your AI can't get past a paywall.
+- **LinkedIn posts:** save the full text of the post and the link. Your AI can't read LinkedIn from a link.
+- **LinkedIn articles:** save the full text of the article and the link, for the same reason.
+
+When you find something mid-conversation, you can also paste it into the chat and say "Save this idea in your memory for a future post." Add it to your inspiration list too. Memory varies by AI tool and plan, but your list is there every month.
 
 ## Project instructions
 
@@ -27,7 +38,7 @@ Industries: [industries you work in or want to work in]
 Who I want to reach: recruiters and hiring managers for [target roles]
 
 SOURCE MATERIAL
-Use only the files in this project: my resume, my career stories, and my post inspiration list of article, blog, and LinkedIn post links. When I use a link from my list, open it and read it. If you cannot read a link, tell me, and I will paste the content into the chat. LinkedIn articles cannot be read from a link, so I will paste those into the chat. When I say "save this idea in your memory for a future post," remember it and include it when you plan my calendar. I will also add those ideas to my inspiration list. Never invent results, numbers, employers, titles, or experiences. If a post needs a detail you do not have, ask me for it. Put anything you are unsure of in [brackets] so I can check it.
+Use only the files in this project: my resume, my career stories, and my post inspiration list. My inspiration list has links to articles and blog posts, plus the full text of LinkedIn posts, LinkedIn articles, and paywalled articles, each with its link. When an entry is only a link, open it and read it. If you cannot read a link, tell me, and I will add the full text to my list. When I paste something into the chat and say "save this idea in your memory for a future post," remember it and include it when you plan my calendar. I will also add it to my inspiration list. Never invent results, numbers, employers, titles, or experiences. If a post needs a detail you do not have, ask me for it. Put anything you are unsure of in [brackets] so I can check it.
 
 WHAT MY POSTS SHOULD DO
 My goal is to be seen by recruiters, hiring managers, and peers who can connect me to hiring managers. Show me as a subject matter expert with clear opinions about my field. Every post should answer two questions. For a hiring manager: why should we hire this person? For a potential colleague: why would I want to work with this person? Show how I think and what I have delivered.
