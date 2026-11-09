@@ -24,11 +24,13 @@ Don't stop. Once you've built that reputation, letting it go quiet means startin
 
 ## Before you start
 
-1. **Create a project or a Gem.** In ChatGPT or Claude, open Projects from the sidebar and create a new project. In Gemini, go to gemini.google.com, click Explore Gems, then New Gem. Gems are free on every Gemini plan. Name it something like "LinkedIn Content."
-2. **Upload your source files.** Add your master resume, your career stories, a short list of your target roles, and a post inspiration list: one document of articles, blog posts, and LinkedIn posts about your field. See "Your post inspiration list" below for what to save for each one. Save files as .txt or .md when you can. They use fewer tokens than Word or PDF. In a Gem, upload files under Knowledge, then Add files. Prefer to keep your files in Google Drive? See the companion guide, [Keep Your Source Files in Google Drive](Keep-Your-Source-Files-in-Google-Drive.md).
-3. **Paste the instructions below** into the project's instructions field. In a Gem, paste them into the Instructions box.
+1. **Create a project or a Gemini skill.** In ChatGPT or Claude, open Projects from the sidebar and create a new project. In Gemini, go to gemini.google.com, click **Customize** in the sidebar, then **Skills**, then **Create**, then **Create manually**. (Don't see Customize? Click **More** first.) Skills replaced Gems in November 2026 and are free on every Gemini plan. Name it something like "LinkedIn Content." A skill also needs a short description, which tells Gemini when to use it. Try: "My LinkedIn content partner. Use it when I plan, draft, or review LinkedIn posts, or run my monthly analytics review."
+2. **Upload your source files.** Add your master resume, your career stories, a short list of your target roles, and a post inspiration list: one document of articles, blog posts, and LinkedIn posts about your field. See "Your post inspiration list" below for what to save for each one. Save files as .txt or .md when you can. They use fewer tokens than Word or PDF. In a Gemini skill, open the skill and upload your files. Skills take PDF, TXT, MD, and CSV files, so save Word documents as PDF or text first. Prefer to keep your files in Google Drive? See the companion guide, [Keep Your Source Files in Google Drive](Keep-Your-Source-Files-in-Google-Drive.md).
+3. **Paste the instructions below** into the project's instructions field. In a Gemini skill, paste them into the skill's instructions, then click **Create**.
 4. **Fill in every [bracket].** The more specific you are about your target roles and audience, the better the drafts. One bracket asks whether your posts can mention that you're job searching. That's your call.
 5. **Start one chat per month.** Each month, open a new chat in your project. Start it with your monthly review, then plan the month and draft that month's posts in the same chat. Your instructions and files carry into every chat. The month's calendar and drafts live in that month's chat.
+
+   **How a Gemini skill is different:** a project is a container, and your instructions and files only work in the chats inside it. A Gemini skill isn't a container. It works in any chat. Start a new chat, type **@** (or **/**) and pick your skill, and Gemini uses your instructions and files in that chat. Gemini can also pick up the skill on its own when you ask for something that matches its description.
 
 ## Your post inspiration list
 
@@ -166,7 +168,7 @@ To check a single post, open the post, click **View analytics**, then click **Ex
 
 ### Give it to your AI
 
-Add the file to your project so the AI can compare months over time. In a Gem, add it under Knowledge. Then start the month's new chat in your project, attach the file, and say: "Here is my LinkedIn analytics file for [month]. Run my monthly review."
+Add the file to your project so the AI can compare months over time. Gemini skills don't take Excel files, so Gemini users skip this step and attach the file to the chat. Then start the month's new chat in your project, or a new chat with your skill, attach the file, and say: "Here is my LinkedIn analytics file for [month]. Run my monthly review."
 
 ### What to look for
 
@@ -194,9 +196,9 @@ Some findings change more than next month's calendar. If your Tuesday posts keep
 Your AI can't edit its own project instructions. You make the change:
 
 1. **Approve the instruction changes** you want. The review labels each recommendation as a plan change or an instruction change.
-2. **Make sure the AI has your exact instructions.** ChatGPT and Claude projects can read their own instructions word for word. Gemini Gems can't, so Gemini users open the Gem, click Edit, copy the text from the Instructions box, and paste it into the chat.
+2. **Make sure the AI has your exact instructions.** ChatGPT and Claude projects can read their own instructions word for word. Gemini can't, so Gemini users go to **Customize**, then **Skills**, open the skill, copy its instructions, and paste them into the chat.
 3. **Copy the full updated instructions** the AI gives you, and check the list of what changed.
-4. **Replace your project's instructions.** Open your project's instructions, select everything, and paste the new version. In a Gem, edit the Gem and replace the text in the Instructions box. Save.
+4. **Replace your project's instructions.** Open your project's instructions, select everything, and paste the new version. In Gemini, go to **Customize**, then **Skills**, open the skill, and replace its instructions. Save.
 5. **Keep the old version.** Save a dated copy, like "Instructions 2026-11," before you replace them, so you can go back if a change doesn't work.
 
 ## Ground rules
