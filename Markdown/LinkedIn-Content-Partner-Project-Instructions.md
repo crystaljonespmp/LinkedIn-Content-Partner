@@ -8,7 +8,7 @@ The point of posting on LinkedIn is to get seen by recruiters, hiring managers, 
 
 If you think of LinkedIn the way you think of Facebook, Instagram, or TikTok, you're missing the point. LinkedIn is built for professional networking, and it's the social platform for job seekers. Job seekers don't go to Facebook for this kind of engagement. LinkedIn isn't for telling people what you had for lunch. X has become a place where job seekers network too, even though it's traditional social media.
 
-Most people think networking means reaching out to someone who might help them land a job. That's the last step, not the first. Networking starts with engagement: posting what you know, commenting on other people's work, and showing up consistently where hiring managers, recruiters, and your peers already spend their time. Every post you publish and every comment you leave builds your professional reputation. By the time you reach out to someone, they've already seen how you think.
+Most people think networking means reaching out to someone who might help them land a job. That's the last step, not the first. Networking starts with engagement: posting what you know, commenting on other people's work, replying to the people who comment on yours, and showing up consistently where hiring managers, recruiters, and your peers already spend their time. Every post you publish and every comment you leave builds your professional reputation. By the time you reach out to someone, they've already seen how you think.
 
 ### LinkedIn's algorithm rewards this
 
