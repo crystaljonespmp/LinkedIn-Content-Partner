@@ -8,7 +8,7 @@ The point is to get seen by recruiters, hiring managers, and the peers who can c
 
 | Guide | What it covers | Read online | Word version |
 |---|---|---|---|
-| **LinkedIn Content Partner Project Instructions** | Start here. Set up a project or Gem, paste in ready-made instructions, draft posts from your own materials, and review your analytics each month. | [Read it](Markdown/LinkedIn-Content-Partner-Project-Instructions.md) | [Download](https://github.com/crystaljonespmp/LinkedIn-Content-Partner-Setup/raw/main/Word/LinkedIn-Content-Partner-Project-Instructions.docx) |
+| **LinkedIn Content Partner Project Instructions** | Start here. Set up a project or Gemini skill, paste in ready-made instructions, draft posts from your own materials, and review your analytics each month. | [Read it](Markdown/LinkedIn-Content-Partner-Project-Instructions.md) | [Download](https://github.com/crystaljonespmp/LinkedIn-Content-Partner-Setup/raw/main/Word/LinkedIn-Content-Partner-Project-Instructions.docx) |
 | **Keep Your Source Files in Google Drive** | Optional. Keep your resume, career stories, and post inspiration list in one Drive folder, and connect Drive to your AI so it always reads your latest version. | [Read it](Markdown/Keep-Your-Source-Files-in-Google-Drive.md) | [Download](https://github.com/crystaljonespmp/LinkedIn-Content-Partner-Setup/raw/main/Word/Keep-Your-Source-Files-in-Google-Drive.docx) |
 
 ## The slides
@@ -19,7 +19,7 @@ The full presentation that walks through this workflow, with speaker notes on ev
 
 **To read a guide,** click **Read it**. It opens right here in your browser, formatted and ready to follow. You don't need a GitHub account.
 
-**To copy the project instructions,** open the guide and find the gray box of instructions. Hover over it and click the copy icon in its top right corner. Paste it into your project or Gem.
+**To copy the project instructions,** open the guide and find the gray box of instructions. Hover over it and click the copy icon in its top right corner. Paste it into your project or Gemini skill.
 
 **To download a guide as a Markdown file** (the best format for uploading to ChatGPT, Claude, or Gemini), open the guide and click the **Download raw file** button. It's the download arrow icon at the top right of the file.
 
@@ -27,7 +27,7 @@ The full presentation that walks through this workflow, with speaker notes on ev
 
 ## Where to start
 
-1. Read the **LinkedIn Content Partner Project Instructions** and set up your project or Gem.
+1. Read the **LinkedIn Content Partner Project Instructions** and set up your project or Gemini skill.
 2. Ask for 12 post ideas drawn from your career stories.
 3. Draft one post, edit it until it sounds like you, and publish it.
 4. At the start of each month, export your LinkedIn analytics and run a monthly review. The main guide shows you how.
